@@ -16,11 +16,11 @@ For beginners:
 2. Fork the project to your account.
 3. Clone your project fork to your computer.
 ```
-git clone git@github.com:yourgithubuser/infox17.git
+git clone git@github.com:yourgithubuser/InfoXpression18.git
 ```
 4. Add the original project repo as upstream repository in your forked project.
 ```
-git remote add upstream git@github.com:entity/infox17.git
+git remote add upstream git@github.com:entity/InfoXpression18.git
 ```
 5. Create a new branch from master.
 ```
@@ -33,6 +33,25 @@ git commit -a -m "My fixes"
 5. Push this branch to your GitHub project.
 6. Open a Pull Request on GitHub.
 8. The pull request is merged or closed after approval.
+9. Install python3
+```
+$python3 --version (to check if python3 is installed or not if yes then jump to step 10)
+$ sudo apt-get update
+$ sudo apt-get install python3.6
+```
+10. Install Python Virtual Environment
+```
+$sudo apt-get install python3-pip(if pip is install then ignore)
+$sudo pip3 install virtualenv 
+```
+Now go to the project folder then
+```
+python3 -m venv .
+```
+11. Install reqiurements.txt
+```
+pip3 install -m reqiurements.txt
+```
 
 Take a look at : 
 * https://guides.github.com/introduction/flow/
