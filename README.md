@@ -1,5 +1,5 @@
 # infox18
-Website - Infoxpression 2018
+Website - Infoxpression 2k18
 
 Techfest USICT
 
