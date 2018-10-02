@@ -9,6 +9,6 @@ To contribute check out the [Contributor's Guide][COGG].
 
 [COGG]: /contribution-guide.md
 
-This README would normally document whatever steps are necessary to get the application up and running.
+This README would normally document whatever steps are necessary to get the application up and running!
 
 This website is developed using django as backend. First install django on your computer and run using python manage.py runserver. 
